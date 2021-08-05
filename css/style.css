@@ -1,0 +1,19 @@
+
+.redText
+{
+    font-size: 15px;
+    color: orange;
+}
+
+
+.redText span
+{
+    color: blue;
+}
+
+.greenText 
+{
+    font-size: 20px;
+    color: rgba(50, 204, 30, 0.678);
+
+}
